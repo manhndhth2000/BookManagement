@@ -1,6 +1,7 @@
 # BookManagement
 1. Create fake data for 1000 books
-![](image/Screenshot from 2021-11-15 10-49-21.png)
+
+![](./image/Screenshot from 2021-11-15 10-49-21.png)
 
     url: localhost:8088/book/create
 2. Sort list by title
